@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Rye&display=swap');
+
+:root{
+    --primary-color: #1E3A8A;
+    --text-color:white;
+}
+body{
+    font-family: 'Rye', cursive;
+    text-align: center;
+    background-image: url("images/avatar.jpg");
+    background-size: cover;
+    opacity: 0.8;
+}
+
+#txt-input{
+    font-family: 'Rye', cursive;
+    max-width: 80%;
+    width:600px;
+    height :10vh;
+    margin : auto;
+    margin-bottom:2rem;
+    display:block;
+    padding: 1rem;
+    border: 1px solid black;
+    font-size: larger;
+}
+
+
+#output{
+    max-width: 80%;
+    width: 600px;
+    height :10vh;
+    margin : auto;
+    margin-top: 2rem;
+    display:block;
+    padding: 1rem;
+    border: 1px solid black;
+    font-size: larger;
+    background-color: var(--text-color);
+}
+
+#btn-translate{
+    background-color: var(--primary-color);
+    color:var(--text-color);
+    margin: auto;
+    padding: 1rem ;
+    font-size: large;
+
+}
+
+
+
+.navi-header{
+    background-color: var(--primary-color);
+    padding: 2rem;
+    margin-bottom: 5rem;
+    color: white;
+}
+
+.navi-footer{
+    background-color:  var(--primary-color);
+    margin-top: 10rem;
+    padding: 2rem;
+    
+    
+}
+
+h3,h2{
+    color:white;
+}

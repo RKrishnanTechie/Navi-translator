@@ -1,2 +1,2 @@
 # Navi-translator
- this is a translation app in Navi  (AVATAR)language
+ this is a translation app which translates into  Navi language (the fictional characters from the movie AVATAR) 

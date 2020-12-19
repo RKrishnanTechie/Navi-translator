@@ -54,7 +54,7 @@ body{
     background-color: var(--primary-color);
     padding: 2rem;
     margin-bottom: 5rem;
-    color: white;
+    color: var(--text-color);
 }
 
 .navi-footer{
@@ -66,5 +66,5 @@ body{
 }
 
 h3,h2{
-    color:white;
+    color:var(--text-color);
 }
